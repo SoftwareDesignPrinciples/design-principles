@@ -195,7 +195,7 @@ Whenever possible, names should be chosen that use common vocabulary
 non-native English speakers are likely to understand when first encountering the name.
 Always value readability over brevity.
 
-<p class="example"For example `horizontalAlignment` is a more
+<p class="example">For example `horizontalAlignment` is a more
 English-readable name than `alignmentHorizontal`.
 
 Note: It may be appropriate to use technical language or well-known terms of art
